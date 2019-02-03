@@ -1,4 +1,4 @@
-Here you can find the slides and code to run for the first advanced workshop for FA 18
+Here you can find the slides and code to run for the first advanced workshop for SP 19
 To intsall the required packages run
 ```
 pip3 install -r requirements.txt
